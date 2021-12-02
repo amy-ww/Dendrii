@@ -5,7 +5,7 @@ Dendrii is a free-to-download desktop app catered towards senior users that brid
 ## Inspiration
 We considered the widely-reported link between ageing cognitive decline and
 took note of seniors groups’ preferences for cognitive games.
-We considered the widely-reported link between ageing and cognitive decline and took note of seniors groups’ preferences for cognitive games (see https://journals.sagepub.com/doi/10.1177/1555412008314132).
+We considered the widely-reported link between aging and cognitive decline and took note of seniors groups’ preferences for cognitive games (see https://journals.sagepub.com/doi/10.1177/1555412008314132).
 
 ## What it does
 Dendrii is a free-to-download desktop app catered towards senior users that bridges virtual pet companionship with research-driven brain health training. The app functions within a user-pet system where the user is responsible for their personal pet neuron and is prompted to earn Dendrii’s currency - myelins - and engage with a daily to-do list of the app’s features.
